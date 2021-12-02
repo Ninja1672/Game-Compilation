@@ -18,7 +18,6 @@ and send output or recieve input.
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * Develop a Minesweeper clone
 * Add and fix features for the Hangman game, such as: list of previously guessed letters and an ASCII art version of a guy being hung
 * Seperate all these games into seperate files outside of main
